@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
 
-  </style>
 </head>
 <body>
 <h1 style="font-size:50px;">Lijepa naša</h1>
